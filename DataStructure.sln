@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11kmp", "11kmp\11kmp.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12Tree", "12Tree\12Tree.vcxproj", "{97213628-1D54-418C-AA1E-B8CD4CAF025A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mataqipan", "mataqipan\mataqipan.vcxproj", "{774C085F-4051-4BB3-9E24-E34C7EEC4206}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{97213628-1D54-418C-AA1E-B8CD4CAF025A}.Release|x64.Build.0 = Release|x64
 		{97213628-1D54-418C-AA1E-B8CD4CAF025A}.Release|x86.ActiveCfg = Release|Win32
 		{97213628-1D54-418C-AA1E-B8CD4CAF025A}.Release|x86.Build.0 = Release|Win32
+		{774C085F-4051-4BB3-9E24-E34C7EEC4206}.Debug|x64.ActiveCfg = Debug|x64
+		{774C085F-4051-4BB3-9E24-E34C7EEC4206}.Debug|x64.Build.0 = Debug|x64
+		{774C085F-4051-4BB3-9E24-E34C7EEC4206}.Debug|x86.ActiveCfg = Debug|Win32
+		{774C085F-4051-4BB3-9E24-E34C7EEC4206}.Debug|x86.Build.0 = Debug|Win32
+		{774C085F-4051-4BB3-9E24-E34C7EEC4206}.Release|x64.ActiveCfg = Release|x64
+		{774C085F-4051-4BB3-9E24-E34C7EEC4206}.Release|x64.Build.0 = Release|x64
+		{774C085F-4051-4BB3-9E24-E34C7EEC4206}.Release|x86.ActiveCfg = Release|Win32
+		{774C085F-4051-4BB3-9E24-E34C7EEC4206}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
